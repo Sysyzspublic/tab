@@ -1,6 +1,8 @@
 # tab
 简约浏览器起始页
 
+> 原项目：[yuyudifiesh/tabs](https://github.com/yuyudifiesh/tabs)
+
 > [!WARNING]
 > 此项目使用 Tailwindcss 编写，不适用部分低版本内核的浏览器。
 
